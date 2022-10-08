@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.netstyler.foundationintellijplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.netstyler.foundationintellijplugin.MyBundle
 
 class MyApplicationService {
 
